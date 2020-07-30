@@ -1,0 +1,23 @@
+* {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.login-title {
+    width: 300px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-radius: 8px;
+    background-image: url("https://www.ancient-origins.net/sites/default/files/field/image/Agesilaus-II-cover.jpg");
+
+}
+
+.wrap {
+    margin: 10px auto;
+    width: 300px;
+}
